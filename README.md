@@ -36,8 +36,5 @@ A classic **Mastermind code-breaking game** implemented on Arduino Uno with an I
    - **Blue** = Correct digit in the wrong position
 6. Crack the code in ≤10 attempts!
 
-## Example
-![Gameplay Demo](schematics/gameplay.gif) *(Optional: Add a photo/video later)*
-
 ## License
 MIT License - Free for personal and educational use.
