@@ -17,7 +17,7 @@ A classic **Mastermind code-breaking game** implemented on Arduino Uno with an I
 - **4x RGB LEDs** (or 8x separate Red/Blue LEDs)
 - Resistors: 220Ω for LEDs, 10kΩ pull-down for buttons
 
-🔌 **Wiring Diagram**:  
+**Wiring Diagram**:  
 ![Schematic](schematic/mastermind-schematic.png)
 
 ## Software
