@@ -18,7 +18,7 @@ A classic **Mastermind code-breaking game** implemented on Arduino Uno with an I
 - Resistors: 220Ω for LEDs, 10kΩ pull-down for buttons
 
 🔌 **Wiring Diagram**:  
-![Schematic](schematics/mastermind-schematic.png)
+![Schematic](schematic/mastermind-schematic.png)
 
 ## Software
 - Libraries:
